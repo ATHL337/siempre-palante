@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about.md"
+                "file": "content/posts/creating-a-new-theme.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "80dc2d0d90a43d98",
   "lastOpenFiles": [
+    "public/whoami/index.html",
+    "public/whoami",
+    "content/about.md",
+    "content/whoami.md",
     "New folder",
     "public/contact/index.html",
     "public/contact",
@@ -162,7 +166,6 @@
     "content/posts/goisforlovers.md",
     "content/posts/hugoisforlovers.md",
     "content/posts/migrate-from-jekyll.md",
-    "content/about.md",
     "content/posts/test-8.md",
     "content/posts/test-7.md",
     "content/posts/test-6.md",
@@ -174,8 +177,6 @@
     "content/posts/post-2.md",
     "content/posts/post-1.md",
     "content/posts/test-9.md",
-    "layouts/backup/_default/single.html",
-    "layouts/backup/_default/list.html",
     "content/posts/28MAY23.md",
     "content/_index.md.md",
     "content/_index.md"

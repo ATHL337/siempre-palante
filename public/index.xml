@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://hackerdemic.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>whoami</title>
-      <link>http://hackerdemic.com/about/</link>
+      <link>http://hackerdemic.com/whoami/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://hackerdemic.com/about/</guid>
+      <guid>http://hackerdemic.com/whoami/</guid>
       <description>Basic Information Name: ATHL337 Professional Title: Cyber Warfare Operations Craftsman Summary: I am the National Director of Cyber Games for Raíces Cyber Org, dedicated to promoting cybersecurity education through engaging Capture The Flag (CTF) competitions. With a background in Cyber Warfare Operations and a focus on penetration testing and malware analysis, I bring expertise in offensive and defensive cyber operations.
 Active Certifications: OSCP (Offensive Security Certified Professional) GREM (GIAC Reverse Engineering Malware) GXPN (GIAC Exploit Researcher and Advanced Penetration Tester) GPYC (GIAC Python Coder) GPEN (GIAC Penetration Tester) GWAPT (GIAC Web Application Penetration Tester) CompTIA Security+ CompTIA A+ C|EH (Certified Ethical Hacker) Expired/Retired Certifications: GCUX (GIAC Certified Unix Security Administrator) GCFA (GIAC Certified Forensic Analyst) Education: A.</description>
     </item>

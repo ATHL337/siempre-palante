@@ -1,4 +1,5 @@
 +++
+menu = 'main'
 title = "whoami"
 tags = ["profile"]
 date = "2023-05-30"

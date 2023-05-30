@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/creating-a-new-theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about.md"
+                "file": "content/posts/creating-a-new-theme.md"
               }
             }
           }
@@ -146,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80dc2d0d90a43d98",
+  "active": "f08199bb5c7d3ea7",
   "lastOpenFiles": [
+    "public/tags/profile/page/1/index.html",
+    "public/tags/profile/page/1",
+    "public/tags/profile/page",
+    "public/tags/profile/index.xml",
+    "public/tags/profile/index.html",
+    "public/tags/profile",
+    "content/posts/goisforlovers.md",
+    "content/posts/hugoisforlovers.md",
+    "content/posts/migrate-from-jekyll.md",
+    "content/posts/creating-a-new-theme.md",
+    "content/about.md",
     "content/posts/test-8.md",
     "content/posts/test-7.md",
     "content/posts/test-6.md",
@@ -158,22 +169,12 @@
     "content/posts/test-1.md",
     "content/posts/post-2.md",
     "content/posts/post-1.md",
-    "content/posts/migrate-from-jekyll.md",
-    "content/posts/hugoisforlovers.md",
-    "content/posts/goisforlovers.md",
-    "content/posts/creating-a-new-theme.md",
-    "content/about.md",
     "content/posts/test-9.md",
     "layouts/backup/_default/single.html",
     "layouts/backup/_default/list.html",
     "layouts/backup/_default",
     "layouts/backup/index.html",
     "layouts/index.html",
-    "layouts/_default/single.html",
-    "layouts/_default/list.html",
-    "layouts/single.html",
-    "layouts/list.html",
-    "layouts/backup/single.html",
     "content/posts/28MAY23.md",
     "content/_index.md.md",
     "content/_index.md"

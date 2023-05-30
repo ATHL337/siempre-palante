@@ -17,14 +17,15 @@ sectionPagesMenu = 'main'
     weight = 2
   [[menu.main]]
     identifier = 'about'
-    name = 'About'
-    url = '/about/'
+    name = 'whoami'
+    url = '/whoami/'
     weight = 3
 
 [params]
   author = 'ATHL337'
   description = '𝙄𝙩’𝙨 𝙣𝙤𝙩 𝙤𝙫𝙚𝙧 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙡𝙤𝙨𝙚, 𝙞𝙩’𝙨 𝙤𝙫𝙚𝙧 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙦𝙪𝙞𝙩.'
   menu_item_separator = ' - '
+  
   [[params.social]]
     icon = 'github'
     name = 'Github'

@@ -6,25 +6,16 @@
     <description>Recent content in themes on hackerdemic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://hackerdemic.com/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 11:17:39 -0500</lastBuildDate><atom:link href="http://hackerdemic.com/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://hackerdemic.com/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>20230530</title>
+      <link>http://hackerdemic.com/posts/20230530/</link>
+      <pubDate>Tue, 30 May 2023 11:17:39 -0500</pubDate>
       
-      <guid>http://hackerdemic.com/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://hackerdemic.com/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://hackerdemic.com/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <guid>http://hackerdemic.com/posts/20230530/</guid>
+      <description>Hello, World! Hey there, Hackerdemic community!
+Welcome to our brand new blog powered by Hugo, the open-source static site generator. We&amp;rsquo;re thrilled to launch this platform as a space to share knowledge, insights, and stories about the fascinating world of hacking, cybersecurity, and all things related.
+In this blog, we aim to bring you valuable content that covers a wide range of topics, including penetration testing techniques, vulnerability analysis, ethical hacking methodologies, secure coding practices, CTF challenges, and much more.</description>
     </item>
     
   </channel>

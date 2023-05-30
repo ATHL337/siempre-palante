@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/creating-a-new-theme.md",
+                "file": "content/posts/20230530.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/creating-a-new-theme.md",
+                "file": "content/posts/20230530.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/creating-a-new-theme.md",
+                "file": "content/posts/20230530.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/creating-a-new-theme.md"
+                "file": "content/posts/20230530.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "80dc2d0d90a43d98",
   "lastOpenFiles": [
-    "content/posts/20230530.md",
     "content/posts/creating-a-new-theme.md",
+    "content/posts/20230530.md",
     "public/posts/20230530/index.html",
     "public/posts/20230530",
     "public/whoami/index.html",

@@ -148,6 +148,8 @@
   },
   "active": "80dc2d0d90a43d98",
   "lastOpenFiles": [
+    "public/posts/20230530/index.html",
+    "public/posts/20230530",
     "content/posts/20230530.md",
     "public/whoami/index.html",
     "public/whoami",
@@ -162,7 +164,6 @@
     "public/tags/profile/page/1",
     "public/tags/profile/page",
     "public/tags/profile/index.xml",
-    "public/tags/profile/index.html",
     "content/posts/goisforlovers.md",
     "content/posts/hugoisforlovers.md",
     "content/posts/migrate-from-jekyll.md",

@@ -1,0 +1,4 @@
+baseURL = 'http://hackerdemic.com/'
+languageCode = 'en-us'
+title = 'hackerdemic'
+theme = 'm10c'

@@ -1,9 +1,67 @@
 +++
-title = "About"
+title = "whoami"
+tags = ["profile"]
+date = "2023-05-30"
 +++
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia lorem quis sodales auctor. Donec bibendum odio leo, bibendum iaculis lectus dapibus sit amet. Etiam ut euismod lectus, vel finibus metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer quis vestibulum justo. Duis scelerisque ullamcorper sem, eget congue lorem ultrices mattis. Nam ut mollis tellus, id facilisis turpis. Duis ac egestas mi, a mattis dolor. Curabitur vestibulum est nec tortor hendrerit, vehicula malesuada quam tempor. Duis ornare tortor dapibus, scelerisque est lacinia, aliquet mi. Vivamus convallis malesuada augue ac viverra. Sed molestie erat at sem dapibus porttitor. Vestibulum lacinia, enim id feugiat varius, felis erat sollicitudin nisl, sit amet semper nisi nunc in nisl. Sed dapibus ullamcorper nulla, et molestie lacus accumsan ac.
+## Basic Information
+- Name: ATHL337
+- Professional Title: Cyber Warfare Operations Craftsman
 
-Fusce auctor in justo nec porta. Aliquam vitae molestie libero. In scelerisque dolor ac est lacinia, at consectetur neque vulputate. Curabitur ornare lorem vitae euismod vestibulum. Sed non arcu nunc. Suspendisse potenti. Maecenas tristique, dui egestas mattis pulvinar, tortor ligula mollis libero, ac ullamcorper erat nibh in augue. Curabitur nunc diam, pretium at porta et, volutpat sit amet ligula. Proin urna lorem, luctus sit amet metus quis, tempus rutrum augue. Phasellus ut nunc dolor.
+## Summary:
+I am the National Director of Cyber Games for Raíces Cyber Org, dedicated to promoting cybersecurity education through engaging Capture The Flag (CTF) competitions. With a background in Cyber Warfare Operations and a focus on penetration testing and malware analysis, I bring expertise in offensive and defensive cyber operations.
 
-Duis a porta mi, non viverra erat. Nam tincidunt lorem nec sollicitudin laoreet. Mauris faucibus vitae urna ac aliquet. Vivamus rutrum rhoncus tempor. Donec massa diam, molestie sit amet nulla eu, venenatis egestas urna. Vivamus hendrerit elit velit, ut volutpat diam condimentum vel. Etiam ultricies, nulla tincidunt rhoncus placerat, velit nisl gravida velit, mollis vestibulum risus mauris sed lectus.
+## Active Certifications:
+- OSCP (Offensive Security Certified Professional)
+- GREM (GIAC Reverse Engineering Malware)
+- GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)
+- GPYC (GIAC Python Coder)
+- GPEN (GIAC Penetration Tester)
+- GWAPT (GIAC Web Application Penetration Tester)
+- CompTIA Security+
+- CompTIA A+
+- C|EH (Certified Ethical Hacker)
+
+## Expired/Retired Certifications:
+- GCUX (GIAC Certified Unix Security Administrator)
+- GCFA (GIAC Certified Forensic Analyst)
+
+## Education:
+- A.A.S. Munitions Systems Technology, Community College of the Air Force
+- A.A.S. Cybersecurity, Community College of the Air Force
+- BS, Security & Risk Analysis, Penn State
+- BS, Information Sciences & Technology, Penn State
+- Master of Science, Cybersecurity and Information Assurance, WGU
+ 
+## Work Experience:
+- Cyber Threat Emulation team member
+- Cyber Planner for OCO and DCO aligned missions
+- Section Chief of the Malware Exploitation Cell
+ 
+## Key Technical Skills:
+- Penetration Testing
+- Malware Analysis
+- Linux and Unix Architecture
+- Risk Assessment
+- Web Application Security
+ 
+## Notable Projects:
+- National Director of Cyber Games for Raíces Cyber Org
+- Building the CTF for RaicesCON in October 2023
+
+## Achievements:
+- Information Dominance NCO for the 67th Cyberspace Operations Group (2021)
+- 1st Place CTF Team - "RAICES"
+- 5th Place CTF Team - "Cyber Meme Force" - SANS NetWars DoD Services Cup Championship
+ 
+## Language Skills:
+- Spanish: DLPT Scores - 4 (Reading), 3 (Listening), 2 (Speaking)
+
+## Personal Interests and Hobbies:
+- Powerlifting
+- Charity Work
+ 
+Contact Information:
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alfredopelaez/)
+GitHub: [GitHub Profile](https://github.com/ATHL337)
+

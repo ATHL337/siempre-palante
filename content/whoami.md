@@ -27,10 +27,10 @@ I am the National Director of Cyber Games for Raíces Cyber Org, dedicated to pr
 - GCFA (GIAC Certified Forensic Analyst)
 
 ## Education:
-- A.A.S. Munitions Systems Technology, Community College of the Air Force
-- A.A.S. Cybersecurity, Community College of the Air Force
-- BS, Security & Risk Analysis, Penn State
-- BS, Information Sciences & Technology, Penn State
+- Associate of Applied Science, Munitions Systems Technology, Community College of the Air Force
+- Associate of Applied Science, Cybersecurity, Community College of the Air Force
+- Bachelor of Science, Security & Risk Analysis, Penn State
+- Bachelor of Science, Information Sciences & Technology, Penn State
 - Master of Science, Cybersecurity and Information Assurance, WGU
  
 ## Work Experience:

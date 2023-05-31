@@ -51,11 +51,11 @@ I am the National Director of Cyber Games for Raíces Cyber Org, dedicated to pr
 
 ## Achievements:
 - Information Dominance NCO for the 67th Cyberspace Operations Group (2021)
-- 1st Place CTF Team - "RAICES"
-- 5th Place CTF Team - "Cyber Meme Force" - SANS NetWars DoD Services Cup Championship
+- 1st Place CTF Team - "RAICES" - [BSides Harrisburg](https://bsideshbg.com/)
+- 5th Place CTF Team - "Cyber Meme Force" - [SANS NetWars DoD Services Cup Championship](https://www.sans.org/cyber-ranges/)
  
 ## Language Skills:
-- Spanish: DLPT Scores - 4 (Reading), 3 (Listening), 2 (Speaking)
+- Spanish: [DLPT](https://en.wikipedia.org/wiki/Defense_Language_Proficiency_Tests) Scores - 4 (Reading), 3 (Listening), 2 (Speaking)
 
 ## Personal Interests and Hobbies:
 - Powerlifting

@@ -60,3 +60,6 @@ sectionPagesMenu = 'main'
   #  lightColor = '#d6d6d6'
   #  lightestColor = '#d3d3d3'
   #  primaryColor = '#ffffff'
+
+  [[params.analytics]]
+  googleAnalytics = 'G-EB0VH10EH1'

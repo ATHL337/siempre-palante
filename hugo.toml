@@ -61,5 +61,5 @@ sectionPagesMenu = 'main'
   #  lightestColor = '#d3d3d3'
   #  primaryColor = '#ffffff'
 
-  [[params.analytics]]
-  googleAnalytics = '{{ env "TRACKING_ID" }}'
+  #[[params.analytics]]
+  # googleAnalytics = '{{ env "TRACKING_ID" }}'
